@@ -1,0 +1,14 @@
+E:\JetBrains C# Projects\University\Pr1\Pr1\bin\Debug\net8.0\Pr1.exe
+E:\JetBrains C# Projects\University\Pr1\Pr1\bin\Debug\net8.0\Pr1.deps.json
+E:\JetBrains C# Projects\University\Pr1\Pr1\bin\Debug\net8.0\Pr1.runtimeconfig.json
+E:\JetBrains C# Projects\University\Pr1\Pr1\bin\Debug\net8.0\Pr1.dll
+E:\JetBrains C# Projects\University\Pr1\Pr1\bin\Debug\net8.0\Pr1.pdb
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\Pr1.GeneratedMSBuildEditorConfig.editorconfig
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\Pr1.AssemblyInfoInputs.cache
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\Pr1.AssemblyInfo.cs
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\Pr1.csproj.CoreCompileInputs.cache
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\Pr1.dll
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\refint\Pr1.dll
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\Pr1.pdb
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\Pr1.genruntimeconfig.cache
+E:\JetBrains C# Projects\University\Pr1\Pr1\obj\Debug\net8.0\ref\Pr1.dll
